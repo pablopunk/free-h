@@ -1,0 +1,48 @@
+{
+  "name": "free-h",
+  "bin": {
+    "free": "cli.js"
+  },
+  "description": "Like `free -h` but cross platform",
+  "version": "1.0.0",
+  "author": "Pablo Varela <pablovarela182@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/pablopunk/free-h/issues",
+    "email": "pablovarela182@gmail.com"
+  },
+  "contributors": [
+    "Pablo Varela <pablovarela182@gmail.com>"
+  ],
+  "dependencies": {
+    "pc-stats": "0.0.7"
+  },
+  "devDependencies": {
+    "standard": "*"
+  },
+  "homepage": "https://github.com/pablopunk/free-h",
+  "keywords": [
+    "miny",
+    "free",
+    "h",
+    "cli",
+    "command",
+    "line",
+    "mac",
+    "linux",
+    "windows",
+    "memory",
+    "ram",
+    "available",
+    "stats",
+    "cpu"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablopunk/free-h"
+  },
+  "scripts": {
+    "lint": "standard"
+  }
+}
