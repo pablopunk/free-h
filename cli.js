@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const stats = require('pc-stats')
 
 //   free: '13.75', total: '34.36', unit: 'GB' }
