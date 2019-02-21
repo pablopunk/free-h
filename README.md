@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://travis-ci.org/pablopunk/free-h"><img src="https://img.shields.io/travis/pablopunk/free-h.svg" /> </a>
-  <a href="https://codecov.io/gh/pablopunk/free-h"><img src="https://img.shields.io/codecov/c/github/pablopunk/free-h.svg" /> </a>
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" /> </a>
   <a href="https://github.com/pablopunk/miny"><img src="https://img.shields.io/badge/made_with-miny-1eced8.svg" /> </a>
   <a href="https://www.npmjs.com/package/free-h"><img src="https://img.shields.io/npm/dt/free-h.svg" /></a>
@@ -15,17 +14,21 @@
 
 ## Install
 
-```sh
-npm install free-h
+```bash
+npm install -g free-h
 ```
 
 
 ## Usage
 
-```js
-const freeH = require('free-h')
-// use as you like
+```bash
+$ free [ -h ]
+
+                total           used            free
+Mem:            34.36GB         20.83GB         13.53GB
 ```
+
+>Fun fact: The `-h` doesn't really do anything.
 
 
 ## License
