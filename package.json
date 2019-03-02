@@ -4,7 +4,7 @@
     "free": "cli.js"
   },
   "description": "Like `free -h` but cross platform",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "bugs": {
     "url": "https://github.com/pablopunk/free-h/issues",
